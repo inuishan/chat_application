@@ -1,0 +1,151 @@
+__LOG__    |  Mon Apr 16 07:04:11 2012  |  User send the file
+__ERR__    |  Mon Apr 16 07:04:43 2012  |  Where - peerserver>login_checkError - recv username
+__LOG__    |  Mon Apr 16 07:05:07 2012  |  User send the file
+__LOG__    |  Mon Apr 16 07:09:33 2012  |  peerserver used once agian
+__LOG__    |  Mon Apr 16 07:10:59 2012  |  peerserver used once agian
+__DEBUG__  |  Mon Apr 16 07:11:47 2012  |  peerserver User close the connection
+__LOG__    |  Mon Apr 16 07:13:21 2012  |  peerserver used once agian
+__DEBUG__  |  Mon Apr 16 07:13:31 2012  |  peerserver User close the connection
+__LOG__    |  Mon Apr 16 07:24:52 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:24:52 2012  |  peerserver : User came in addrinfo
+__WARN__   |  Mon Apr 16 07:25:23 2012  |  peerclient Chat closed abnormally
+__WARN__   |  Mon Apr 16 07:25:28 2012  |  peerclient Chat closed abnormally
+__LOG__    |  Mon Apr 16 07:27:26 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:27:26 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Mon Apr 16 07:28:47 2012  |  User send the file
+__DEBUG__  |  Mon Apr 16 07:28:47 2012  |  peerserver User close the connection
+__LOG__    |  Mon Apr 16 07:29:01 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:29:01 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Mon Apr 16 07:29:24 2012  |  peerserver.c>regstr New user registered
+__WARN__   |  Mon Apr 16 07:33:07 2012  |  peerclient Chat closed abnormally
+__LOG__    |  Mon Apr 16 07:33:44 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:33:44 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Mon Apr 16 07:33:52 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:33:52 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Mon Apr 16 07:34:07 2012  |  User send the file
+__DEBUG__  |  Mon Apr 16 07:34:11 2012  |  peerserver User close the connection
+__LOG__    |  Mon Apr 16 07:35:49 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:35:49 2012  |  peerserver : User came in addrinfo
+__DEBUG__  |  Mon Apr 16 07:36:18 2012  |  peerserver User close the connection
+__LOG__    |  Mon Apr 16 07:37:16 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:37:16 2012  |  peerserver : User came in addrinfo
+__DEBUG__  |  Mon Apr 16 07:37:27 2012  |  Again recieving choice
+__DEBUG__  |  Mon Apr 16 07:37:37 2012  |  Again recieving choice
+__DEBUG__  |  Mon Apr 16 07:37:39 2012  |  Registering agian
+__DEBUG__  |  Mon Apr 16 07:37:39 2012  |  peerserver User close the connection
+__LOG__    |  Mon Apr 16 07:38:34 2012  |  peerserver used once agian
+__WARN__   |  Mon Apr 16 07:38:34 2012  |  peerserver : User came in addrinfo
+__DEBUG__  |  Mon Apr 16 07:38:57 2012  |  peerclient>login Wrong Username Or Password
+__DEBUG__  |  Mon Apr 16 07:39:03 2012  |  peerclient>login Wrong Username Or Password
+__DEBUG__  |  Mon Apr 16 07:39:05 2012  |  peerserver User close the connection
+__ERR__    |  Wed Apr 18 23:01:46 2012  |  Where - peerserver>main Error - checking function errorp
+__ERR__    |  Wed Apr 18 23:01:46 2012  |  Where - peerserver>mainError - No such file or directory
+__LOG__    |  Wed Apr 18 23:01:46 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:01:46 2012  |  peerserver : User came in addrinfo
+__ERR__    |  Wed Apr 18 23:03:20 2012  |  Where - peerserver>main Error - checking function errorp
+__ERR__    |  Wed Apr 18 23:03:20 2012  |  Where - peerserver>mainError - No such file or directory
+__LOG__    |  Wed Apr 18 23:03:20 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:03:20 2012  |  peerserver : User came in addrinfo
+__ERR__    |  Wed Apr 18 23:03:33 2012  |  Where - peerserver>main Error - checking function errorp
+__ERR__    |  Wed Apr 18 23:03:33 2012  |  Where - peerserver>mainError - No such file or directory
+__LOG__    |  Wed Apr 18 23:03:33 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:03:33 2012  |  peerserver : User came in addrinfo
+__ERR__    |  Wed Apr 18 23:06:13 2012  |  Where - peerserver>main   |  Error - checking function errorp
+__ERR__    |  Wed Apr 18 23:06:13 2012  |  Where - peerserver>main  |  Error - Permission denied
+__LOG__    |  Wed Apr 18 23:06:13 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:06:13 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:12:26 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:12:26 2012  |  peerserver : User came in addrinfo
+__DEBUG__  |  Wed Apr 18 23:12:59 2012  |  peerclient>login Wrong Username Or Password
+__LOG__    |  Wed Apr 18 23:14:23 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:14:23 2012  |  peerserver : User came in addrinfo
+__ERR__    |  Wed Apr 18 23:14:43 2012  |  Where - peerserver>login_check  |  Error - recv username
+__DEBUG__  |  Wed Apr 18 23:14:43 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:17:06 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:17:06 2012  |  peerserver : User came in addrinfo
+__ERR__    |  Wed Apr 18 23:17:22 2012  |  Where - peerserver>login_check  |  Error - recv username
+__DEBUG__  |  Wed Apr 18 23:17:22 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:21:09 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:21:09 2012  |  peerserver : User came in addrinfo
+__ERR__    |  Wed Apr 18 23:36:09 2012  |  Where - peerserver>login_check  |  Error - recv username
+__DEBUG__  |  Wed Apr 18 23:36:09 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:38:29 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:38:29 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:41:18 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:41:20 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:42:39 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:42:39 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:45:49 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:45:49 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:45:58 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:45:58 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:46:21 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:46:23 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:50:53 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:50:53 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:51:04 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:51:06 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:55:44 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:55:44 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:56:00 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:56:01 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:58:06 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:58:06 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:58:14 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:58:16 2012  |  peerserver User close the connection
+__LOG__    |  Wed Apr 18 23:59:21 2012  |  peerserver used once agian
+__WARN__   |  Wed Apr 18 23:59:21 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Wed Apr 18 23:59:30 2012  |  User send the file
+__DEBUG__  |  Wed Apr 18 23:59:31 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:00:20 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:00:20 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:00:27 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:00:29 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:01:14 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:01:14 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:01:24 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:01:27 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:04:14 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:04:14 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:04:31 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:04:44 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:06:47 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:06:47 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:07:15 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:07:19 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:07:49 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:07:49 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:07:54 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:07:56 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:12:05 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:12:05 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:12:19 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:12:20 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:13:12 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:13:12 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:13:20 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:13:22 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:14:14 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:14:14 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:14:23 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:14:26 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:17:40 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:17:40 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:17:47 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:17:49 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:19:19 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:19:19 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:19:28 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:19:31 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:20:35 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:20:35 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:20:47 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:20:48 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:22:31 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:22:31 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:22:38 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:22:40 2012  |  peerserver User close the connection
+__LOG__    |  Thu Apr 19 00:24:01 2012  |  peerserver used once agian
+__WARN__   |  Thu Apr 19 00:24:01 2012  |  peerserver : User came in addrinfo
+__LOG__    |  Thu Apr 19 00:24:09 2012  |  User send the file
+__DEBUG__  |  Thu Apr 19 00:24:10 2012  |  peerserver User close the connection
